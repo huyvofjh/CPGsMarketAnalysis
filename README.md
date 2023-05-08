@@ -10,7 +10,7 @@
 Exploratory Data Analysis 
   - Calculate Total Trade, Moving Average, Daily Return and Cumulative Return of Stock. 
   - Visualize data using Matplotlib and Plotly. 
-  - Create heatmap 
+  - Create heatmap. 
   
   ![YoYChange21](https://user-images.githubusercontent.com/88859966/236716691-42893cc2-9cf4-465f-bcc0-8944200ede96.png)
   
